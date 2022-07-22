@@ -1,0 +1,32 @@
+{
+  "name": "criando-rotas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisandradecassia/sprint-semana-8-resilia.git"
+  },
+  "keywords": [
+    "get",
+    "post"
+  ],
+  "author": "Lisandra",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Lisandradecassia/sprint-semana-8-resilia/issues"
+  },
+  "homepage": "https://github.com/Lisandradecassia/sprint-semana-8-resilia#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
